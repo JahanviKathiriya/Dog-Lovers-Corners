@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dog-lovers-corner", "Dog-Lovers-Corner\dog-lovers-corner.esproj", "{355F8E42-E58D-42B9-9C87-D97B5AF181CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355F8E42-E58D-42B9-9C87-D97B5AF181CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E788AC5-9F32-4AC8-96C6-75A9D5BA41CF}
+	EndGlobalSection
+EndGlobal
