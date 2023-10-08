@@ -59,6 +59,7 @@ class DogBreeds extends Component {
     render(){
         var Options = this.state.breeds.map((breed, index) => {
             const subBreeds = this.state.subBreeds[index];
+            // eslint-disable-next-line
             if (subBreeds == [] || subBreeds.length === 0) {
                 return {
                     value: breed,

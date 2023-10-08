@@ -75,6 +75,7 @@ class Carousel extends Component {
         const { breedImages } = this.state;
         const { selectedBreeds } = this.props;
 
+        // eslint-disable-next-line
         if (!breedImages || breedImages == {} || !selectedBreeds)  {
             return null;
         }
